@@ -12,3 +12,4 @@
     "vite": "^7.0.4"
   }
 }
+"start": "vite preview --port $PORT"
