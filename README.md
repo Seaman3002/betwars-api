@@ -55,3 +55,7 @@ Players can:
 Clone the repo:  
 ```bash
 git clone https://github.com/your-username/bet-wars.git
+
+cd bet-wars
+npm install
+npm start
